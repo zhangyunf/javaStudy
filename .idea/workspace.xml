@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71830194-a4f3-483e-9f46-4b9fa33c3bf1" name="Default Changelist" comment="Hello World">
+    <list default="true" id="71830194-a4f3-483e-9f46-4b9fa33c3bf1" name="Default Changelist" comment="Hello World 第一天">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -196,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638582598901</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Hello World 第一天">
+      <created>1638584410622</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638584410622</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,17 +218,6 @@
           <value>
             <State>
               <option name="BEK_SORT_TYPE" value="1" />
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
             </State>
           </value>
         </entry>
@@ -244,7 +242,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2020.1.10" />
     <MESSAGE value="Hello World" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello World" />
+    <MESSAGE value="Hello World 第一天" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World 第一天" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
