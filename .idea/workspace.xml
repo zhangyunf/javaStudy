@@ -19,12 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71830194-a4f3-483e-9f46-4b9fa33c3bf1" name="Default Changelist" comment="Hello World 第一天">
-      <change afterPath="$PROJECT_DIR$/src/基本数据类型.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/常量和变量.java" afterDir="false" />
+    <list default="true" id="71830194-a4f3-483e-9f46-4b9fa33c3bf1" name="Default Changelist" comment="2-3节">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/基本数据类型.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/变量.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/知识点/HelloWorld.md" beforeDir="false" afterPath="$PROJECT_DIR$/知识点/HelloWorld.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +70,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JDK15" />
@@ -93,7 +93,7 @@
       <recent name="D:\code\javaStudy\知识点" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.常量和变量">
+  <component name="RunManager" selected="Application.变量">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -114,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01Const" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo01Const" />
+    <configuration name="变量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="变量" />
       <module name="javaStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.变量" />
         <item itemvalue="Application.常量和变量" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.Demo03Operator" />
         <item itemvalue="Application.Demo02Variable" />
-        <item itemvalue="Application.Demo01Const" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638586932380</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2-3节">
+      <created>1638711901493</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1638711901493</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,7 +286,8 @@
     <MESSAGE value="2020.1.10" />
     <MESSAGE value="Hello World" />
     <MESSAGE value="Hello World 第一天" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello World 第一天" />
+    <MESSAGE value="2-3节" />
+    <option name="LAST_COMMIT_MESSAGE" value="2-3节" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
